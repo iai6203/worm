@@ -1,0 +1,14 @@
+# jetbrains
+.idea
+
+# node
+node_modules
+
+# yarn
+yarn.lock
+
+# sass
+*.map
+
+# typescript
+tsconfig.json
